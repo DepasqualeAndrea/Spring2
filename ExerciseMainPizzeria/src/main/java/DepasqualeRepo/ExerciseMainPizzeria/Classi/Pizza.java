@@ -13,7 +13,7 @@ public abstract class Pizza extends Commestibile {
 
 	@Override
 	public String toString() {
-		return "Pizza [Calorie=" + getCalorie() + ", Name=" + getName() + ", Price=" + getPrice() + "]";
+		return "Pizza [Calorie = " + getCalorie() + ", Name = " + getName() + ", Price = " + getPrice() + "]";
 	}
-	
+
 }

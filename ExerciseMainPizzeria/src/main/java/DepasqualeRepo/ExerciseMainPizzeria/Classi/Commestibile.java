@@ -15,7 +15,7 @@ public abstract class Commestibile extends Merce {
 
 	@Override
 	public String toString() {
-		return "Commestibile [calorie=" + calorie + ", Name=" + getName() + ", Price=" + getPrice() + "]";
+		return "Commestibile [calorie = " + calorie + ", Name = " + getName() + ", Price = " + getPrice() + "]";
 	}
 
 }
